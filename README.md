@@ -37,7 +37,7 @@ I'm a passionate **Web Developer and Computer Teacher** from Begusarai, Bihar. I
 
 ### 📫 Connect with Me
 - 🌐 **Live Portfolio:** [apvskincare.netlify.app](https://apvskincare.netlify.app/)
-- 🎥 **YouTube:** [APV Creation](https://www.youtube.com/@apvcreationbqs)
+- 🎥 **YouTube:** [APVCreation](https://www.youtube.com/@apvcreationbqs)
 - 📸 **Instagram:** [@apvcreation](https://www.instagram.com/apvcreation)
 
 "Consistency is the key to mastering code. ✨"
